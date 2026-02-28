@@ -2,6 +2,10 @@
 
 A framework for evaluating prefill-level jailbreak attacks against safety-aligned LLMs. This repository implements 7 attack categories and 2 generation strategies (static template + adaptive) as described in our paper.
 
+## Demo
+
+[![asciicast](https://asciinema.org/a/tPZoDQ9nekPGoCjN.svg)](https://asciinema.org/a/tPZoDQ9nekPGoCjN)
+
 ## Attack Categories
 
 | Category | Description |
